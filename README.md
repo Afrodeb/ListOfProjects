@@ -8,4 +8,4 @@
 <li><a target="_blank" href="http://kanjani.co.zw/">Kanjani website for client</a></li>
 </ul>
 
-#This are just some of my public projects, if you would like to view my private repositories, please shoot me a message at delon.savanhu[at]yahoo[dot]com.
+#These are just some of my public projects, if you would like to view my private repositories, please shoot me a message at delon.savanhu[at]yahoo[dot]com.
